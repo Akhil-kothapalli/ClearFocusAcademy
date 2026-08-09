@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { Bot, Braces, CheckCircle2, CloudUpload, Cpu, DatabaseZap, GitBranch, Rocket, Sparkles, ChevronRight } from 'lucide-react'
+import { Bot, Braces, CheckCircle2, CloudUpload, Cpu, DatabaseZap, GitBranch, Rocket, Sparkles } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import { siteConfig } from '../config/siteConfig'
 
