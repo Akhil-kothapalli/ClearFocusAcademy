@@ -1,0 +1,17 @@
+{
+  "name": "ClearFocus Academy",
+  "short_name": "ClearFocus",
+  "description": "AI-assisted practical product and project development through target-oriented Full Stack learning.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
